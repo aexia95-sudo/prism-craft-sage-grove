@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Beacon",
+      "hasCanvas": false,
+      "bodyTextLen": 454,
+      "bodyTextHash": "2e1a260602f8423f5450176b2e6fbee925e8b325b7864c5eb8a37e36b543adf2",
+      "bodyTextPrefix": "BEACON Check-in bot 0 days in a row Not yet today Last 7 days St",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Beacon",
+      "hasCanvas": false,
+      "bodyTextLen": 273,
+      "bodyTextHash": "8eb6f7a0150e249a350ed3f51a6ac9356ba1b1df7c218ade6a7fd72853871842",
+      "bodyTextPrefix": "BEACON 0d Morning. Beacon is on the log. Send a note and I will ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
